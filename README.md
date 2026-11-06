@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Ishan%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IIIT%20Bhopal%20%2727&descAlignY=60&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Web+Dev+Lead+%40+Axios+IIIT+Bhopal;Building+scalable%2C+impactful+products)](https://git.io/typing-svg)
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 <br/>
 
